@@ -1,15 +1,21 @@
-DOMAIN-KEYWORD,pilipili
-DOMAIN-KEYWORD,embyclub
-DOMAIN-KEYWORD,pornemby
-DOMAIN-SUFFIX,bangumi.ca
+# xiaoya
+DOMAIN,emby.cf.hsingyin.cc
+# 江湖Emby
+DOMAIN,film.reddust.link 
+# Temby
 DOMAIN-SUFFIX,285286.xyz
+# Nya
+DOMAIN-SUFFIX,bangumi.ca
+# Temby
+DOMAIN-SUFFIX,285286.xyz
+# Paul
 DOMAIN-SUFFIX,imetyou.top
-DOMAIN-SUFFIX,zi0.icu
-DOMAIN-SUFFIX,misakaf.org
-DOMAIN-SUFFIX,emby.ws
-DOMAIN-SUFFIX,emby.wtf
-DOMAIN-SUFFIX,jmsooo.com
-DOMAIN-SUFFIX,ccemby.tk
-DOMAIN-SUFFIX,123456.al
-DOMAIN-SUFFIX,mgl.gay
-DOMAIN-SUFFIX,emby77.org
+# ACA、MisakaF
+DOMAIN-SUFFIX,aca.best
+DOMAIN-KEYWORD,misakaf
+# 野兽餐厅
+DOMAIN-SUFFIX,mius.uk
+# CC
+DOMAIN-KEYWORD,ccemby
+# Pilipili
+DOMAIN-KEYWORD,pilipiliultra
